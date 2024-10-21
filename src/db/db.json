@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "6911c4a4-cb30-4451-adcb-04616ca43526",
+    "name": "Jeanne Purdy",
+    "phone": "390.534.7323 x68507",
+    "email": "Alvah62@gmail.com",
+    "job": "Human Interactions Manager"
+  },
+  {
+    "id": "7dd3ab26-18bb-493c-91bc-353d77c486f2",
+    "name": "Felicia Cronin",
+    "phone": "(604) 469-7786 x989",
+    "email": "Janick_Gibson@hotmail.com",
+    "job": "National Operations Engineer"
+  },
+  {
+    "id": "e50b7dca-7066-4844-a0e1-2795ac4e006a",
+    "name": "Wm Daugherty",
+    "phone": "595-220-5269 x7925",
+    "email": "Liliane_McLaughlin38@gmail.com",
+    "job": "Future Integration Developer"
+  },
+  {
+    "id": "b6183b80-2f47-4153-8901-fc968b027b0f",
+    "name": "Garrett Hoppe III",
+    "phone": "612.455.7795 x740",
+    "email": "Leif.Walker@hotmail.com",
+    "job": "Corporate Mobility Representative"
+  }
+]
